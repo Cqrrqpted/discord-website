@@ -25,13 +25,13 @@ Open index.html and start to use the website
 
 ## Authors
 
-[Nouridio](https://github.com/Nouridio)
+[Cqrrqpted]-https://github.com/Cqrrqpted
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-### Support Nouridio
+### Support Cqrrqpted
 
 Support me and get access to new free website templates and premium website design.
 
